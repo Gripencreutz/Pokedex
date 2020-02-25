@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+h4{
+    margin: 0 0 5px;
+}
+button{
+    margin: 10px 10px auto;
+    background:blue;
+    color: white;
+    border-radius: .5em;
+    width: 70px;
+    border: none;
+    outline: none;
+    
+}
+.pokeContainer{
+    text-align: center;
+}
